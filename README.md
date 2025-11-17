@@ -16,7 +16,8 @@
 ## Instructions
 
 1. Create a profile card structure in `index.html`:
-   - Add a header section with profile image
+   -  hiii      
+   Add a header section with profile image
    - Add a section with name and bio
    - Add a footer with social media links
 
